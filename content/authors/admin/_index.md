@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ecem Altan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ecem
+last_name: Altan
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
