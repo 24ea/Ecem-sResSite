@@ -45,7 +45,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: MATLAB
           description: 90%
           icon: r-project
           icon_pack: fab
