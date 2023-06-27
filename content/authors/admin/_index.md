@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ecem Altan
+title: Ecem Altan (website in progress...)
 
 # Full name (for SEO)
 first_name: Ecem
