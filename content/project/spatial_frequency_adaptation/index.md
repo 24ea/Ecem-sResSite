@@ -1,6 +1,6 @@
 ---
-title: Research Project
-summary: Relationship between spatial frequency adaptation and population receptive field sizes
+title: Relationship between spatial frequency tuning and population receptive field size
+summary: Summary...
 tags:
   - spatial frequency
   - population receptive field
