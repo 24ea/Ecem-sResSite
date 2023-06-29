@@ -47,8 +47,8 @@ sections:
       items:
         - name: MATLAB
           description: 90%
-          icon: laptop-icon
-          icon_pack: fas
+          icon: matlabicon
+          icon_pack: custom
         - name: Statistics
           description: 100%
           icon: chart-line
