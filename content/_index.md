@@ -47,10 +47,10 @@ sections:
       items:
         - name: MATLAB
           description: 90%
-          icon: matlabicon
+          icon: mathworks
           icon_pack: custom
         - name: Statistics
-          description: 100%
+          description: 90%
           icon: chart-line
           icon_pack: fas
         - name: Photography
