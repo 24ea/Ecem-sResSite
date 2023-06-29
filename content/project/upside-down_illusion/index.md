@@ -1,6 +1,6 @@
 ---
-title: Research Project
-summary: High-level processing in a Ponzo-like size illusion
+title: High-level processing in a Ponzo-like size illusion
+summary: summary...
 tags:
   - size perception
   - visual illusions
@@ -16,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_conference_abstract: https://www.visionsciences.org/presentation/?id=4715
 url_pdf: https://www.researchgate.net/publication/371309692_Evidence_for_high-level_processing_in_a_Ponzo-like_size_illusion
 url_slides: ''
