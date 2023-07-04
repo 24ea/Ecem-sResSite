@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "Size aftereffect is non-local"
 authors:
 - admin
-- Robert Ford
+- Huseyin Boyaci
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "A.S. Brain Research Center & National Magnetic Resonance Research Center (UMRAM), Bilkent University, Ankara, Turkey; 
+Department of Psychology, Bilkent University, Ankara, Turkey"
+- "A.S. Brain Research Center & National Magnetic Resonance Research Center (UMRAM), Bilkent University, Ankara, Turkey; 
+Department of Psychology, Bilkent University, Ankara, Turkey; 
+Department of Psychology, JL Gießen University, Gießen, Germany"
+date: "2020-07-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +22,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Vision Research* (176)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: It is well known that prolonged exposure to a certain size stimulus alters the perceived size of a subsequently presented stimulus at the same location. How the rest of the visual space is affected by this size adaptation, however, has not been systematically studied before. Here, to fill this gap in literature, we tested size adaptation at the adapter location as well as the rest of the visual space. We used peripherally presented solid discs (Experiment 1) and rings (Experiment 2) as adapter and target (test) stimuli. Observers adapted to a mid-sized stimulus and judged the size of the subsequently presented smaller or larger target stimuli. Results showed that the perceived sizes of target stimuli were repelled away from the adapter size, not only at the adapter location but also at other locations. These findings demonstrate that size adaptation causes widespread distortion of the visual space and alters perceived size. We discuss possible computational models that may underpin the perceptual effect.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Size adaptation causes widespread distortion of the visual space and alters perceived size.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://doi.org/10.1016/j.visres.2020.07.006
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,8 +49,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'A possible explanation for the size aftereffect at eccentric positions'
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -55,14 +58,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [] #'size_adaptation'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
