@@ -8,7 +8,7 @@ last_name: Altan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,24 +24,24 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include visual neuroscience, size perception, brain imaging.
 
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Optometry and Vision Science
+      institution: The University of Auckland, Auckland, New Zealand
+      year: 2024
+    - course: MA in Psychology
+      institution: Bilkent University, Ankara, Turkey
+      year: 2019
+    - course: BSc in Psychology
+      institution: Cankaya University, Ankara, Turkey
+      year: 2016
+
 # Interests to show in About widget
 interests:
   - Visual Neuroscience
   - Size Perception
   - Brain Imaging
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Optometry and Vision Science
-      institution: The University of Auckland
-      year: 2024
-    - course: MA in Psychology
-      institution: I.D. Bilkent University
-      year: 2019
-    - course: BSc in Psychology
-      institution: Cankaya University
-      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

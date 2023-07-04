@@ -9,7 +9,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: ''
 
 image:
   caption: The spread of adaptation effect.
@@ -17,10 +17,6 @@ image:
 
 
   links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_paper: https://www.sciencedirect.com/science/article/pii/S0042698920301206?via%3Dihub
 url_pdf: https://www.researchgate.net/profile/Huseyin-Boyaci/publication/340066937_Size_Aftereffect_is_non-local/links/5ed34a3f458515294521f42d/Size-Aftereffect-is-non-local.pdf?origin=ResearchDetailAlternativeSimilarResearch&_rtd=eyJjb250ZW50SW50ZW50Ijoic2ltaWxhciJ9
 url_slides: ''
